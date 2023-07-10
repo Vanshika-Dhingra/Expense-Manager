@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "222190078710",
+    "project_id": "expensetracker-world",
+    "storage_bucket": "expensetracker-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222190078710:android:e7cb2836db984061557ad7",
+        "android_client_info": {
+          "package_name": "com.auribises.expensetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222190078710-n1d6dgo76k28891nbfhai6lr6vvhj vlev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auribises.expensetracking",
+            "certificate_hash": "d897fe19ddd8051ac67e4c56a1e05c8e419c374c"
+          }
+        },
+        {
+          "client_id": "222190078710-vgqk3j74q6tfjme27tjmkvsaf530a4ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auribises.expensetracking",
+            "certificate_hash": "bb6dccb2619efef7106f5ec6a553758733bf3fd2"
+          }
+        },
+        {
+          "client_id": "222190078710-7fj9b3hiq2dg3jatfm8pj4gvaab6j45p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUZWd7a_aYrB6-BMu31lHqRYes6y8NBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222190078710-7fj9b3hiq2dg3jatfm8pj4gvaab6j45p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222190078710-sql1bpvupke9j6knnma5ngm8ia8i2ptm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.auribises.expensetracking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
